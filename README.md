@@ -6,7 +6,10 @@
   - Save picture
   - Upscaling/downscaling
   - Math filters
+  - Filters parameters
   - New image (generates new picture)
+  - Log
+  - Ctrl + z (easy step back)
   - Exit
 
 check if you have java on pc :)
